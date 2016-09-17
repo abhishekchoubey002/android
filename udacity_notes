@@ -13,3 +13,7 @@ Padding: can be general, like android:padding="5dp" or can be specific as androi
 Padding gets handled by the view, margin by parent view.
 
 The values should be multiple of 8dp (recommended)
+
+
+To lookup: 
+Overlapping views
