@@ -14,6 +14,7 @@ Padding gets handled by the view, margin by parent view.
 
 The values should be multiple of 8dp (recommended)
 
+Orientations work with linear layouts
 
 To lookup: 
 Overlapping views
